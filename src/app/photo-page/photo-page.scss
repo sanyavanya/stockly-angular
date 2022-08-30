@@ -1,0 +1,33 @@
+.photo {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.photo__display {
+  height: 100vh;
+  background-color: #282b2f;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
+}
+
+.photo__nav-link {
+  height: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.photo__info {
+  background-color: #2f3136;
+  padding: 1rem;
+}
+
+.photo__image {
+  padding: 2rem 0;
+  height: 60vh;
+  text-align: center;
+}
+
+.photo__information {
+  margin-top: 1rem;
+}

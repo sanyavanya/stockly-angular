@@ -1,0 +1,30 @@
+{
+  "title": "Road Trip in Asia",
+  "photos": [
+    {
+      "src": "img01.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "postedBy": 1,
+      "postedAt": 1617264644
+    },
+    {
+      "src": "img02.jpg",
+      "description": "Photo taken during my road trip in Asia. I wanted to underline the contrast in colors and the architectural lines.",
+      "comments": [
+        {
+          "content": "Love the colors and light.",
+          "postedBy": 2,
+          "postedAt": 1617276807
+        },
+        {
+          "content": "I know this place ! I was there this summer. When were you there ? Maybe we missed eachother.",
+          "postedBy": 3,
+          "postedAt": 1617294807
+        }
+      ],
+      "postedBy": 1,
+      "postedAt": 1617264645
+    }
+  ],
+  "createdAt": 1617264637
+}

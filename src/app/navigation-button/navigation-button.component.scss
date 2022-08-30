@@ -1,0 +1,16 @@
+:host {
+  height: 100%;
+}
+
+.navigation-button {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition-duration: 300ms;
+}
+
+.navigation-button:hover {
+  background-color: #2f4146;
+}
